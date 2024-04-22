@@ -1,4 +1,4 @@
-# My project
+# My Project
 
 This is a demo.
 

@@ -1,3 +1,3 @@
-# My title
+# My project
 
 This is a demo.
